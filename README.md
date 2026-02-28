@@ -16,7 +16,7 @@ Posteriormente, se identifican los registros correspondientes al año 2024, se c
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_NOTEBOOK_EN_GITHUB](https://github.com/juancast-data-analyst/Latin-American-Development-Bank.Analyst/blob/main/S5_ladb_mobility_economy_project_student_(1).ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[URL_DEL_NOTEBOOK_EN_GITHUB](https://github.com/juancast-data-analyst/Latin-American-Development-Bank.Analyst/blob/main/S5_ladb_mobility_economy_project_student_(1).ipynb))
 
 O:
 
