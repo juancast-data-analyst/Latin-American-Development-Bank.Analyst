@@ -101,6 +101,3 @@ Juan Castelblanco - Analista de Datos
 
 📝 Licencia
 Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
-
-*Análisis basado en datos de tráfico TomTom y economía OECD del año 2024*  
-*Fecha de análisis: 2024 | American Development Bank – Data Analytics Team*
