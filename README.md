@@ -97,7 +97,7 @@ Evaluar cómo la movilidad urbana (niveles de congestión, tiempos de viaje y re
 ---
 
 👤 Autor
-Juan Castelblanco - Analista de Datos - ConnectaTel
+Juan Castelblanco - Analista de Datos 
 
 📝 Licencia
 Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
